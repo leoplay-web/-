@@ -1,0 +1,26 @@
+body{
+    background: rgb(115, 177, 115);
+}
+
+div{
+    background: white;
+    width: 80%;
+    border-radius: 30px;
+    padding: 30px;
+    margin: auto;
+}
+
+img{
+    width: 48%;
+}
+
+h1{
+    text-align: center;
+    color: rgb(14, 167, 14);
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+p{
+    font-size: 30px ;
+}

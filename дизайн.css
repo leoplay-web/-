@@ -1,0 +1,80 @@
+h1{
+    color: chartreuse;
+    font-size: 150px;
+    text-align: center;
+    
+} 
+
+h2{
+    font-size: 75px;
+    color: green;
+    text-align: center;
+}
+
+.патрик{
+    color: orange;
+}
+
+body{
+
+    text-align: center;
+    background: rgb(226, 226, 75);
+}
+
+ .сенди{
+    color: brown;
+ }
+
+
+ .крабс{
+    color: firebrick;
+ }
+
+ .губка{
+color: yellow;
+font-size: 100px;
+ }
+
+ a{
+    background: rgb(255, 0, 0);
+    color: white;
+    padding: 20px;
+    font-size: 18px;
+    border-radius: 40px;
+    text-decoration: none;
+    display: block;
+} 
+
+img:hover{
+    transform: scale(1.04);
+}
+
+img{
+    transition: 0.5s;
+}
+
+.планктон{
+    transition: 0.5s;
+
+}
+
+.планктон:active{
+    transform: translateX(800px);
+}
+
+.боб{
+    transition: 1s;
+}
+
+.боб:active{
+    transform: rotate(180deg);
+}
+
+.листок{
+    background: white;
+    width: 80%;
+    border-radius: 50px;
+    margin: auto ;
+    padding: 50px;
+    margin-top: 50px;
+}
